@@ -1,0 +1,15 @@
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\bin\Debug\net6.0\D5.exe
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\bin\Debug\net6.0\D5.deps.json
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\bin\Debug\net6.0\D5.runtimeconfig.json
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\bin\Debug\net6.0\D5.dll
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\bin\Debug\net6.0\D5.pdb
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\D5.csproj.AssemblyReference.cache
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\D5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\D5.AssemblyInfoInputs.cache
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\D5.AssemblyInfo.cs
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\D5.csproj.CoreCompileInputs.cache
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\D5.dll
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\refint\D5.dll
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\D5.pdb
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\D5.genruntimeconfig.cache
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\D5\D5\obj\Debug\net6.0\ref\D5.dll
