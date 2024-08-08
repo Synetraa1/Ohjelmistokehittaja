@@ -1,0 +1,15 @@
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\bin\Debug\net6.0\Jakaus.exe
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\bin\Debug\net6.0\Jakaus.deps.json
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\bin\Debug\net6.0\Jakaus.runtimeconfig.json
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\bin\Debug\net6.0\Jakaus.dll
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\bin\Debug\net6.0\Jakaus.pdb
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\Jakaus.csproj.AssemblyReference.cache
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\Jakaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\Jakaus.AssemblyInfoInputs.cache
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\Jakaus.AssemblyInfo.cs
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\Jakaus.csproj.CoreCompileInputs.cache
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\Jakaus.dll
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\refint\Jakaus.dll
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\Jakaus.pdb
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\Jakaus.genruntimeconfig.cache
+C:\Users\nicholas.hickman\source\repos\Ohjelmistokehittaja\Jakaus\Jakaus\obj\Debug\net6.0\ref\Jakaus.dll
