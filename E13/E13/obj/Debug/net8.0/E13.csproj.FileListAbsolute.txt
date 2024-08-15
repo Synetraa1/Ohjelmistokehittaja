@@ -1,0 +1,14 @@
+C:\Users\hickm\source\repos\E13\E13\bin\Debug\net8.0\E13.exe
+C:\Users\hickm\source\repos\E13\E13\bin\Debug\net8.0\E13.deps.json
+C:\Users\hickm\source\repos\E13\E13\bin\Debug\net8.0\E13.runtimeconfig.json
+C:\Users\hickm\source\repos\E13\E13\bin\Debug\net8.0\E13.dll
+C:\Users\hickm\source\repos\E13\E13\bin\Debug\net8.0\E13.pdb
+C:\Users\hickm\source\repos\E13\E13\obj\Debug\net8.0\E13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hickm\source\repos\E13\E13\obj\Debug\net8.0\E13.AssemblyInfoInputs.cache
+C:\Users\hickm\source\repos\E13\E13\obj\Debug\net8.0\E13.AssemblyInfo.cs
+C:\Users\hickm\source\repos\E13\E13\obj\Debug\net8.0\E13.csproj.CoreCompileInputs.cache
+C:\Users\hickm\source\repos\E13\E13\obj\Debug\net8.0\E13.dll
+C:\Users\hickm\source\repos\E13\E13\obj\Debug\net8.0\refint\E13.dll
+C:\Users\hickm\source\repos\E13\E13\obj\Debug\net8.0\E13.pdb
+C:\Users\hickm\source\repos\E13\E13\obj\Debug\net8.0\E13.genruntimeconfig.cache
+C:\Users\hickm\source\repos\E13\E13\obj\Debug\net8.0\ref\E13.dll
