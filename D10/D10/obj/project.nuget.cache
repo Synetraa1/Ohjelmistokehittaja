@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZV5dPukPv4jqpI13Eb4oAPGWM/isVJj9tMmQeaE0xwKXKjdiLC8X5iILR+1yXgG1MK5bzYxIEJOA1Ka1us/M+A==",
+  "dgSpecHash": "gSuF5+ZfaQHAzFPuLiLVweZ2MrEClGhKUePeVugnYxc95bpqX2wlRqD8lo8SV1+GSXK806o8DS/+mufsufv9+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicholas.hickman\\source\\repos\\Ohjelmistokehittaja\\D10\\D10\\D10.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hickm\\GameMakerProjects\\Space Rocks\\Ohjelmistokehittaja\\D10\\D10\\D10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hickm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\hickm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\hickm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\hickm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
